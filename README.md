@@ -2,10 +2,3 @@
 
 a
 b
-dddd
-
-
-
-devedevdev
-
-ddd
